@@ -1,4 +1,4 @@
-# kmeans_clustering
+# Market Basket Analysis using KMeans Clustering
 
 The data set can be obtained from kaggle.com
 https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
